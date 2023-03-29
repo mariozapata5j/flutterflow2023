@@ -6,3 +6,6 @@ aqui estaran los links de las practicas de FlutterFlow
 
 # actividad 3 Lisview en FlutterFlow
 https://app.flutterflow.io/share/lisview-flutterflow-ren5o3
+
+# actividad 4 CheckboxListTile
+https://app.flutterflow.io/share/checkbox-list-tile-18k2db
